@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ffcc99;
+    background-color: #90ddfc;
     text-align: center;
     padding: 20px;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 nav {
-    background-color: #ff9966;
+    background-color: #136da8;
     text-align: center;
     padding: 10px;
 }
@@ -42,19 +42,19 @@ ul {
 /* Estilos para a seção "Sobre Nós" */
 
 #sobre {
-    background-color: #ffe0b3;
+    background-color: #6ec4f5;
 }
 
 /* Estilos para a seção "Nossos Produtos" */
 
 #produtos {
-    background-color: #ffd699;
+    background-color: #2fbdf5;
 }
 
 /* Estilos para a seção "Entre em Contato Conosco" */
 
 #contato {
-    background-color: #ffcc66;
+    background-color: #0ba8e6;
     text-align: center;
     padding: 30px;
 }
@@ -62,7 +62,7 @@ ul {
 /* Estilização do rodapé */
 
 footer {
-    background-color: #ff9966;
+    background-color: #2496e2;
     text-align: center;
     padding: 10px;
     color: #fff;
