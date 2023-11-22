@@ -4,6 +4,10 @@ body {
     font-family: 'Caveat', cursive;
     margin: 0;
     padding: 0;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.dipratos.com.br%2F7-diferentes-tipos-de-padaria-e-como-empreender-no-negocio%2F&psig=AOvVaw0gtr_1vSYyo1Xc10Ntzp84&ust=1699441692365000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjNuuXfsYIDFQAAAAAdAAAAABAl');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
 }
 
 header {
@@ -40,6 +44,7 @@ ul {
 }
 
 /* Estilos para a seção "Sobre Nós" */
+
 
 #sobre {
     background-color: #6ec4f5;
@@ -79,4 +84,24 @@ a:hover {
     color: #ff6633;
 }
 
-/* Outras estilizações de elementos (botões, caixas, etc.) podem ser adicionadas conforme necessário. */
+img{
+    width: 250px;
+    height: 250px; 
+    margin: 10px; 
+    border-radius: 50%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+}
+
+.sobrenós{
+    text-align: center;
+}
+
+.choco{
+    text-align: center;
+}
